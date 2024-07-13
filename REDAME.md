@@ -1,7 +1,7 @@
 # Dragon-Ball-Z
 
 Este repositório contém uma página com os principais personagens do anime Dragon-Ball-Z ,e que demonstra cada personagem da série à medida que o usuário clica nas miniatures de suas imagens ao pé da tela.
-<img src="src/images/as-sete-esferas.jpg" alt="As sete esferas" width="800px" height="650px">
+<img src="src/images/as-sete-esferas.jpg" alt="As sete esferas" width="800px">
 
 ## 🚀 Começando
 
